@@ -1,5 +1,4 @@
 # Installing
-To get the project running, follow these steps:
 - Create a folder
 -Enter/Navigate into that folder
 ```
